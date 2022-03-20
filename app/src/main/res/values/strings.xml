@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TwoActivity_codingChallenge</string>
+
+    <string name="passage_one">Passage</string>
+    <string name="passageonetext">Aesthetic means the pleasant, positive or artful appearance of a person or a thing. An example of the word is aesthetic is to say that a particular car is beautiful. Of or characteristic of aestheticism in the arts. Of or concerning the appreciation of beauty or good taste.
+        Most of the sculptures on display were not made to become subject to aesthetic contemplation in western art museums.
+        Maybe it was time they started paying more attention to the aesthetic value of things.
+    </string>
+
+    <string name="passagetwotext">
+        Aesthetics covers both natural and artificial sources of aesthetic experience and judgment. It considers what happens in our minds when we engage with aesthetic objects or environments such as viewing visual art, listening to music, reading poetry, experiencing a play, or exploring nature. The philosophy of art specifically studies how artists imagine, create, and perform works of art, as well as how people use, enjoy, and criticize art. Aesthetics considers why people like some works of art and not others, as well as how art can affect moods or even our beliefs.
+    </string>
+
+    <string name="passagethreetext">Some separate aesthetics and the philosophy of art, claiming that the former is the study of beauty and taste while the latter is the study of works of art. But aesthetics typically considers questions of beauty as well as of art. It examines topics such as art works, aesthetic experience, and aesthetic judgments.[13] Some consider aesthetics to be a synonym for the philosophy of art since Hegel, while others insist that there is a significant distinction between these closely related fields.</string>
+
+    <string name="text_one">Text One</string>
+    <string name="text_two">Text Two</string>
+    <string name="text_three">Text Three</string>
+</resources>
