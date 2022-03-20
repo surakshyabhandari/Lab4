@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloToast_TwoActivities</string>
+    <string name="hello">Hello!</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="count">Count</string>
+    <string name="_0">0</string>
+</resources>
