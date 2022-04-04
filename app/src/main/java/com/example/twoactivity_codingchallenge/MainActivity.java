@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         String text = textbtn.getText().toString();
         Intent intent = new Intent(this, MainActivity2.class);
         String message = "";
+        //if btn text matches, displays the text passage by comparing to the string name
         if(text == getString(R.string.text_one)){
             message = getString(R.string.passageonetext);
         }
