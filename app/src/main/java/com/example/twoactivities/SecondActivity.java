@@ -26,7 +26,10 @@ public class SecondActivity extends AppCompatActivity {
     }
 
     public void reply(View view) {
+
+        //taking the reply
         String myreply = reply.getText().toString();
+        //to go back to main activity
         Intent replyIntent = new Intent();
         replyIntent.putExtra(EXTRA_REPLY, myreply);
         setResult(RESULT_OK,replyIntent);
